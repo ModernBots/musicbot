@@ -1,6 +1,6 @@
 # So you're looking for a music bot?
 
-### Well, there isn't going to be one in the ModernBots for a couple reasons:
+### Well, there isn't going to be one in the ModernBots suite for a couple reasons:
 - ModernBots is meant to *fill the gap* for bots that don't meet the ModernBots vision
 - Music hosting is expensive, way more than any other kind of bot
 
